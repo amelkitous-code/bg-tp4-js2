@@ -1,0 +1,19 @@
+*{
+    font-family: Calibri, sans-serif;
+}
+table{
+    height: 20px;
+    width: 50%;
+    margin-top: 10px;
+}
+#ligne1{
+    background-color: rgb(76, 147, 195);
+    color: white;
+    font-weight: bold;
+}
+#table_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
